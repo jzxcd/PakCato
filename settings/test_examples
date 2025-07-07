@@ -1,0 +1,528 @@
+[
+  {
+    "Name": "Ansible",
+    "URL": "https://github.com/ansible/ansible",
+    "category": ["Configuration Management", "Operating System Interaction"]
+  },
+  {
+    "Name": "Apache Commons IO",
+    "URL": "https://github.com/apache/commons-io",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "Apache POI",
+    "URL": "https://github.com/apache/poi",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "Apache Shiro",
+    "URL": "https://github.com/apache/shiro",
+    "category": ["Authentication & Authorization", "Cryptography"]
+  },
+  {
+    "Name": "Appium",
+    "URL": "https://github.com/appium/appium",
+    "category": ["Testing & Quality Validation", "Operating System Interaction"]
+  },
+  {
+    "Name": "Authlib",
+    "URL": "https://github.com/authlib/authlib",
+    "category": ["Authentication & Authorization", "Cryptography"]
+  },
+  {
+    "Name": "Axios",
+    "URL": "https://github.com/axios/axios",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "Boehm GC (bdwgc)",
+    "URL": "https://github.com/ivmai/bdwgc",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "Botan",
+    "URL": "https://github.com/randombit/botan",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "Bouncy Castle",
+    "URL": "https://github.com/bcgit/bc-java",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "Casbin",
+    "URL": "https://github.com/casbin/casbin",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "Chef",
+    "URL": "https://github.com/chef/chef",
+    "category": ["Configuration Management", "Operating System Interaction"]
+  },
+  {
+    "Name": "Consul",
+    "URL": "https://github.com/hashicorp/consul",
+    "category": ["Configuration Management", "Network Communication"]
+  },
+  {
+    "Name": "Cryptography",
+    "URL": "https://github.com/pyca/cryptography",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "Devise",
+    "URL": "https://github.com/heartcombo/devise",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "Django",
+    "URL": "https://github.com/django/django",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "Django ORM",
+    "URL": "https://github.com/django/django",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "Django REST Framework",
+    "URL": "https://github.com/encode/django-rest-framework",
+    "category": ["Web Framework Components", "Network Communication"]
+  },
+  {
+    "Name": "Django's built-in validation",
+    "URL": "https://github.com/django/django",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "Express",
+    "URL": "https://github.com/expressjs/express",
+    "category": ["Web Framework Components", "Network Communication"]
+  },
+  {
+    "Name": "FastAPI",
+    "URL": "https://github.com/tiangolo/fastapi",
+    "category": ["Web Framework Components", "Network Communication"]
+  },
+
+  {
+    "Name": "Flask",
+    "URL": "https://github.com/pallets/flask",
+    "category": ["Web Framework Components", "Network Communication"]
+  },
+  {
+    "Name": "Flask-Login",
+    "URL": "https://github.com/Flask-Login/Flask-Login",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "Hibernate",
+    "URL": "https://github.com/hibernate/hibernate-orm",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "JAX",
+    "URL": "https://github.com/google/jax",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "JUnit",
+    "URL": "https://github.com/junit-team/junit4",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "Jackson",
+    "URL": "https://github.com/FasterXML/jackson",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "Jest",
+    "URL": "https://github.com/jestjs/jest",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "Keras",
+    "URL": "https://github.com/keras-team/keras",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "Keycloak",
+    "URL": "https://github.com/keycloak/keycloak",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "Laravel",
+    "URL": "https://github.com/laravel/laravel",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "Log4j",
+    "URL": "https://github.com/apache/logging-log4j2",
+    "category": ["Logging & Monitoring", "File & Data Handling"]
+  },
+  {
+    "Name": "Loguru",
+    "URL": "https://github.com/Delgan/loguru",
+    "category": ["Logging & Monitoring"]
+  },
+  {
+    "Name": "Memory Profiler",
+    "URL": "https://github.com/pythonprofilers/memory_profiler",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "Mongoose",
+    "URL": "https://github.com/Automattic/mongoose",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "NumPy",
+    "URL": "https://github.com/numpy/numpy",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "OAuthlib",
+    "URL": "https://github.com/OAuthlib/oauthlib",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "OpenCV",
+    "URL": "https://github.com/opencv/opencv",
+    "category": ["Machine Learning/AI Frameworks", "File & Data Handling"]
+  },
+  {
+    "Name": "OpenSSL",
+    "URL": "https://github.com/openssl/openssl",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "Pandas",
+    "URL": "https://github.com/pandas-dev/pandas",
+    "category": ["File & Data Handling", "Database Interaction"]
+  },
+  {
+    "Name": "Passport.js",
+    "URL": "https://github.com/jaredhanson/passport",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "Peewee",
+    "URL": "https://github.com/coleifer/peewee",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "Pillow",
+    "URL": "https://github.com/python-pillow/Pillow",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "PonyORM",
+    "URL": "https://github.com/ponyorm/pony",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "PowerShell",
+    "URL": "https://github.com/PowerShell/PowerShell",
+    "category": ["Operating System Interaction"]
+  },
+  {
+    "Name": "Prometheus",
+    "URL": "https://github.com/prometheus/prometheus",
+    "category": ["Logging & Monitoring"]
+  },
+  {
+    "Name": "Puppet",
+    "URL": "https://github.com/puppetlabs/puppet",
+    "category": ["Configuration Management", "Operating System Interaction"]
+  },
+  {
+    "Name": "PuppetDB",
+    "URL": "https://github.com/puppetlabs/puppetdb",
+    "category": ["Configuration Management", "Database Interaction"]
+  },
+  {
+    "Name": "PyCA Cryptography",
+    "URL": "https://github.com/pyca/cryptography",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "PyCryptodome",
+    "URL": "https://github.com/Legrandin/pycryptodome",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "PyInstaller",
+    "URL": "https://github.com/pyinstaller/pyinstaller",
+    "category": ["Operating System Interaction"]
+  },
+  {
+    "Name": "PyJWT",
+    "URL": "https://github.com/jpadilla/pyjwt",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "PyTorch",
+    "URL": "https://github.com/pytorch/pytorch",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "PyWin32",
+    "URL": "https://github.com/mhammond/pywin32",
+    "category": ["Operating System Interaction"]
+  },
+  {
+    "Name": "PyYAML",
+    "URL": "https://github.com/yaml/pyyaml",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "Pydantic",
+    "URL": "https://github.com/pydantic/pydantic",
+    "category": ["Web Framework Components", "File & Data Handling"]
+  },
+  {
+    "Name": "Pympler",
+    "URL": "https://github.com/pympler/pympler",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "Pyramid",
+    "URL": "https://github.com/Pylons/pyramid",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "Requests",
+    "URL": "https://github.com/psf/requests",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "Ruby on Rails",
+    "URL": "https://github.com/rails/rails",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "SQLAlchemy",
+    "URL": "https://github.com/sqlalchemy/sqlalchemy",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "SQLModel",
+    "URL": "https://github.com/tiangolo/sqlmodel",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "Salt",
+    "URL": "https://github.com/saltstack/salt",
+    "category": ["Configuration Management", "Operating System Interaction"]
+  },
+  {
+    "Name": "SaltStack",
+    "URL": "https://github.com/saltstack/salt",
+    "category": ["Configuration Management", "Operating System Interaction"]
+  },
+  {
+    "Name": "Scikit-learn",
+    "URL": "https://github.com/scikit-learn/scikit-learn",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "Selenium",
+    "URL": "https://github.com/SeleniumHQ/selenium",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "Sentry",
+    "URL": "https://github.com/getsentry/sentry",
+    "category": ["Logging & Monitoring", "Web Framework Components"]
+  },
+  {
+    "Name": "SonarQube",
+    "URL": "https://github.com/SonarSource/sonarqube",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "Spring Boot",
+    "URL": "https://github.com/spring-projects/spring-boot",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "Spring Security",
+    "URL": "https://github.com/spring-projects/spring-security",
+    "category": ["Authentication & Authorization"]
+  },
+  {
+    "Name": "TensorFlow",
+    "URL": "https://github.com/tensorflow/tensorflow",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "Tornado",
+    "URL": "https://github.com/tornadoweb/tornado",
+    "category": ["Web Framework Components", "Network Communication"]
+  },
+  {
+    "Name": "Twisted",
+    "URL": "https://github.com/twisted/twisted",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "Valgrind",
+    "URL": "https://sourceware.org/git/?p=valgrind.git",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "WTForms",
+    "URL": "https://github.com/wtforms/wtforms",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "Werkzeug",
+    "URL": "https://github.com/pallets/werkzeug",
+    "category": ["Web Framework Components"]
+  },
+  {
+    "Name": "XGBoost",
+    "URL": "https://github.com/dmlc/xgboost",
+    "category": ["Machine Learning/AI Frameworks"]
+  },
+  {
+    "Name": "ZeroMQ",
+    "URL": "https://github.com/zeromq/libzmq",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "aiohttp",
+    "URL": "https://github.com/aio-libs/aiohttp",
+    "category": ["Network Communication", "Web Framework Components"]
+  },
+  {
+    "Name": "gRPC",
+    "URL": "https://github.com/grpc/grpc",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "guppy",
+    "URL": "https://github.com/heidi-jones/guppy",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "jemalloc",
+    "URL": "https://github.com/jemalloc/jemalloc",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "libsodium",
+    "URL": "https://github.com/jedisct1/libsodium",
+    "category": ["Cryptography"]
+  },
+  {
+    "Name": "marshmallow",
+    "URL": "https://github.com/marshmallow-code/marshmallow",
+    "category": ["Web Framework Components", "File & Data Handling"]
+  },
+  {
+    "Name": "mimalloc",
+    "URL": "https://github.com/microsoft/mimalloc",
+    "category": ["Memory Management"]
+  },
+  {
+    "Name": "msgpack-python",
+    "URL": "https://github.com/msgpack/msgpack-python",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "nose2",
+    "URL": "https://github.com/nose2/nose2",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "protobuf",
+    "URL": "https://github.com/protocolbuffers/protobuf",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "psutil",
+    "URL": "https://github.com/giampaolo/psutil",
+    "category": ["Operating System Interaction", "Memory Management"]
+  },
+  {
+    "Name": "psycopg2",
+    "URL": "https://github.com/psycopg/psycopg2",
+    "category": ["Database Interaction"]
+  },
+  {
+    "Name": "pytest",
+    "URL": "https://github.com/pytest-dev/pytest",
+    "category": ["Testing & Quality Validation"]
+  },
+  {
+    "Name": "toml",
+    "URL": "https://github.com/toml-lang/toml",
+    "category": ["File & Data Handling"]
+  },
+  {
+    "Name": "urllib3",
+    "URL": "https://github.com/urllib3/urllib3",
+    "category": ["Network Communication"]
+  },
+  {
+    "Name": "Logstash",
+    "URL": "https://github.com/elastic/logstash",
+    "category": ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+  },
+  {
+    "Name": "Graylog",
+    "URL": "https://github.com/Graylog2/graylog2-server",
+    "category": ["Logging & Monitoring", "Network Communication"]
+  },
+  {
+    "Name": "Fluentd",
+    "URL": "https://github.com/fluent/fluentd",
+    "category": ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+  },
+  {
+    "Name": "Vector",
+    "URL": "https://github.com/vectordotdev/vector",
+    "category": ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+  },
+  {
+    "Name": "Loki",
+    "URL": "https://github.com/grafana/loki",
+    "category": ["Logging & Monitoring", "File & Data Handling"]
+  },
+  {
+    "Name": "ElasticSearch",
+    "URL": "https://github.com/elastic/elasticsearch",
+    "category": ["Logging & Monitoring", "Database Interaction", "File & Data Handling"]
+  },
+  {
+    "Name": "htop",
+    "URL": "https://github.com/htop-dev/htop",
+    "category": ["Operating System Interaction", "Memory Management", "Logging & Monitoring"]
+  },
+  {
+    "Name": "strace",
+    "URL": "https://github.com/strace/strace",
+    "category": ["Operating System Interaction", "Logging & Monitoring"]
+  },
+  {
+    "Name": "dstat",
+    "URL": "https://github.com/dagwieers/dstat",
+    "category": ["Operating System Interaction", "Logging & Monitoring"]
+  },
+  {
+    "Name": "glances",
+    "URL": "https://github.com/nicolargo/glances",
+    "category": ["Operating System Interaction", "Logging & Monitoring", "Memory Management"]
+  },
+  {
+    "Name": "atop",
+    "URL": "https://github.com/Atoptool/atop",
+    "category": ["Operating System Interaction", "Logging & Monitoring", "Memory Management"]
+  },
+  {
+    "Name": "sysstat",
+    "URL": "https://github.com/sysstat/sysstat",
+    "category": ["Operating System Interaction", "Logging & Monitoring"]
+  }
+]

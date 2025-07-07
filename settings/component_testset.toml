@@ -1,0 +1,526 @@
+[components]
+
+[[components.testset]]
+name = "Ansible"
+url = "https://github.com/ansible/ansible"
+category = ["Configuration Management"]
+
+[[components.testset]]
+name = "Apache Commons IO"
+url = "https://github.com/apache/commons-io"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "Apache POI"
+url = "https://github.com/apache/poi"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "Apache Shiro"
+url = "https://github.com/apache/shiro"
+category = ["Authentication & Authorization", "Cryptography"]
+
+[[components.testset]]
+name = "Appium"
+url = "https://github.com/appium/appium"
+category = ["Testing & Quality Validation", "Operating System Interaction"]
+
+[[components.testset]]
+name = "Authlib"
+url = "https://github.com/lepture/authlib"
+category = ["Authentication & Authorization", "Cryptography"]
+
+[[components.testset]]
+name = "Axios"
+url = "https://github.com/axios/axios"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "Boehm GC (bdwgc)"
+url = "https://github.com/ivmai/bdwgc"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "Botan"
+url = "https://github.com/randombit/botan"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "Bouncy Castle"
+url = "https://github.com/bcgit/bc-java"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "Casbin"
+url = "https://github.com/casbin/casbin"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "Chef"
+url = "https://github.com/chef/chef"
+category = ["Configuration Management", "Operating System Interaction"]
+
+[[components.testset]]
+name = "Consul"
+url = "https://github.com/hashicorp/consul"
+category = ["Configuration Management", "Network Communication"]
+
+[[components.testset]]
+name = "Cryptography"
+url = "https://github.com/pyca/cryptography"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "Devise"
+url = "https://github.com/heartcombo/devise"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "Django"
+url = "https://github.com/django/django"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "Django ORM"
+url = "https://github.com/django/django"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "Django REST Framework"
+url = "https://github.com/encode/django-rest-framework"
+category = ["Web Framework Components", "Network Communication"]
+
+[[components.testset]]
+name = "Django's built-in validation"
+url = "https://github.com/django/django"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "Express"
+url = "https://github.com/expressjs/express"
+category = ["Web Framework Components", "Network Communication"]
+
+[[components.testset]]
+name = "FastAPI"
+url = "https://github.com/tiangolo/fastapi"
+category = ["Web Framework Components", "Network Communication"]
+
+[[components.testset]]
+name = "Flask"
+url = "https://github.com/pallets/flask"
+category = ["Web Framework Components", "Network Communication"]
+
+[[components.testset]]
+name = "Flask-Login"
+url = "https://github.com/maxcountryman/flask-login"
+category = ["Authentication & Authorization", "Web Framework Components"]
+
+[[components.testset]]
+name = "Grafana"
+url = "https://github.com/grafana/grafana"
+category = ["Logging & Monitoring", "Web Framework Components"]
+
+[[components.testset]]
+name = "Hibernate"
+url = "https://github.com/hibernate/hibernate-orm"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "JAX"
+url = "https://github.com/google/jax"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "JUnit"
+url = "https://github.com/junit-team/junit4"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "Jackson"
+url = "https://github.com/FasterXML/jackson"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "Jest"
+url = "https://github.com/jestjs/jest"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "Keras"
+url = "https://github.com/keras-team/keras"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "Keycloak"
+url = "https://github.com/keycloak/keycloak"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "Laravel"
+url = "https://github.com/laravel/laravel"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "Log4j"
+url = "https://github.com/apache/logging-log4j2"
+category = ["Logging & Monitoring", "Configuration Management"]
+
+[[components.testset]]
+name = "Loguru"
+url = "https://github.com/Delgan/loguru"
+category = ["Logging & Monitoring"]
+
+[[components.testset]]
+name = "Memory Profiler"
+url = "https://github.com/pythonprofilers/memory_profiler"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "Mongoose"
+url = "https://github.com/Automattic/mongoose"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "NumPy"
+url = "https://github.com/numpy/numpy"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "OAuthlib"
+url = "https://github.com/OAuthlib/oauthlib"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "OpenCV"
+url = "https://github.com/opencv/opencv"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "OpenSSL"
+url = "https://github.com/openssl/openssl"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "Pandas"
+url = "https://github.com/pandas-dev/pandas"
+category = ["File & Data Handling", "Machine Learning & AI Frameworks", "Database Interaction"]
+
+[[components.testset]]
+name = "Passport.js"
+url = "https://github.com/jaredhanson/passport"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "Peewee"
+url = "https://github.com/coleifer/peewee"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "Pillow"
+url = "https://github.com/python-pillow/Pillow"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "PonyORM"
+url = "https://github.com/ponyorm/pony"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "PowerShell"
+url = "https://github.com/PowerShell/PowerShell"
+category = ["Operating System Interaction"]
+
+[[components.testset]]
+name = "Prometheus"
+url = "https://github.com/prometheus/prometheus"
+category = ["Logging & Monitoring"]
+
+[[components.testset]]
+name = "Puppet"
+url = "https://github.com/puppetlabs/puppet"
+category = ["Configuration Management", "Operating System Interaction"]
+
+[[components.testset]]
+name = "PuppetDB"
+url = "https://github.com/puppetlabs/puppetdb"
+category = ["Configuration Management", "Database Interaction"]
+
+[[components.testset]]
+name = "PyCA Cryptography"
+url = "https://github.com/pyca/cryptography"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "PyCryptodome"
+url = "https://github.com/Legrandin/pycryptodome"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "PyInstaller"
+url = "https://github.com/pyinstaller/pyinstaller"
+category = ["Operating System Interaction"]
+
+[[components.testset]]
+name = "PyJWT"
+url = "https://github.com/jpadilla/pyjwt"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "PyTorch"
+url = "https://github.com/pytorch/pytorch"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "PyWin32"
+url = "https://github.com/mhammond/pywin32"
+category = ["Operating System Interaction"]
+
+[[components.testset]]
+name = "PyYAML"
+url = "https://github.com/yaml/pyyaml"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "Pydantic"
+url = "https://github.com/pydantic/pydantic"
+category = ["Web Framework Components", "File & Data Handling"]
+
+[[components.testset]]
+name = "Pympler"
+url = "https://github.com/pympler/pympler"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "Pyramid"
+url = "https://github.com/Pylons/pyramid"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "Requests"
+url = "https://github.com/psf/requests"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "Ruby on Rails"
+url = "https://github.com/rails/rails"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "SQLAlchemy"
+url = "https://github.com/sqlalchemy/sqlalchemy"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "SQLModel"
+url = "https://github.com/tiangolo/sqlmodel"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "Salt"
+url = "https://github.com/saltstack/salt"
+category = ["Configuration Management", "Operating System Interaction"]
+
+[[components.testset]]
+name = "SaltStack"
+url = "https://github.com/saltstack/salt"
+category = ["Configuration Management", "Operating System Interaction"]
+
+[[components.testset]]
+name = "Scikit-learn"
+url = "https://github.com/scikit-learn/scikit-learn"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "Selenium"
+url = "https://github.com/SeleniumHQ/selenium"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "Sentry"
+url = "https://github.com/getsentry/sentry"
+category = ["Logging & Monitoring", "Web Framework Components"]
+
+[[components.testset]]
+name = "SonarQube"
+url = "https://github.com/SonarSource/sonarqube"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "Spring Boot"
+url = "https://github.com/spring-projects/spring-boot"
+category = ["Web Framework Components", "Configuration Management"]
+
+[[components.testset]]
+name = "Spring Security"
+url = "https://github.com/spring-projects/spring-security"
+category = ["Authentication & Authorization"]
+
+[[components.testset]]
+name = "TensorFlow"
+url = "https://github.com/tensorflow/tensorflow"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "Tornado"
+url = "https://github.com/tornadoweb/tornado"
+category = ["Web Framework Components", "Network Communication"]
+
+[[components.testset]]
+name = "Twisted"
+url = "https://github.com/twisted/twisted"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "Valgrind"
+url = "https://github.com/ivosh/valgrind"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "WTForms"
+url = "https://github.com/wtforms/wtforms"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "Werkzeug"
+url = "https://github.com/pallets/werkzeug"
+category = ["Web Framework Components"]
+
+[[components.testset]]
+name = "XGBoost"
+url = "https://github.com/dmlc/xgboost"
+category = ["Machine Learning & AI Frameworks"]
+
+[[components.testset]]
+name = "ZeroMQ"
+url = "https://github.com/zeromq/libzmq"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "aiohttp"
+url = "https://github.com/aio-libs/aiohttp"
+category = ["Network Communication", "Web Framework Components"]
+
+[[components.testset]]
+name = "gRPC"
+url = "https://github.com/grpc/grpc"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "jemalloc"
+url = "https://github.com/jemalloc/jemalloc"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "libsodium"
+url = "https://github.com/jedisct1/libsodium"
+category = ["Cryptography"]
+
+[[components.testset]]
+name = "marshmallow"
+url = "https://github.com/marshmallow-code/marshmallow"
+category = ["Web Framework Components", "File & Data Handling"]
+
+[[components.testset]]
+name = "mimalloc"
+url = "https://github.com/microsoft/mimalloc"
+category = ["Memory Management"]
+
+[[components.testset]]
+name = "msgpack-python"
+url = "https://github.com/msgpack/msgpack-python"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "nose2"
+url = "https://github.com/nose-devs/nose2"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "protobuf"
+url = "https://github.com/protocolbuffers/protobuf"
+category = ["File & Data Handling", "Network Communication"]
+
+[[components.testset]]
+name = "psutil"
+url = "https://github.com/giampaolo/psutil"
+category = ["Operating System Interaction", "Memory Management"]
+
+[[components.testset]]
+name = "psycopg2"
+url = "https://github.com/psycopg/psycopg2"
+category = ["Database Interaction"]
+
+[[components.testset]]
+name = "pytest"
+url = "https://github.com/pytest-dev/pytest"
+category = ["Testing & Quality Validation"]
+
+[[components.testset]]
+name = "toml"
+url = "https://github.com/toml-lang/toml"
+category = ["File & Data Handling"]
+
+[[components.testset]]
+name = "urllib3"
+url = "https://github.com/urllib3/urllib3"
+category = ["Network Communication"]
+
+[[components.testset]]
+name = "Logstash"
+url = "https://github.com/elastic/logstash"
+category = ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+
+[[components.testset]]
+name = "Graylog"
+url = "https://github.com/Graylog2/graylog2-server"
+category = ["Logging & Monitoring", "Network Communication"]
+
+[[components.testset]]
+name = "Fluentd"
+url = "https://github.com/fluent/fluentd"
+category = ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+
+[[components.testset]]
+name = "Vector"
+url = "https://github.com/vectordotdev/vector"
+category = ["Logging & Monitoring", "Network Communication", "File & Data Handling"]
+
+[[components.testset]]
+name = "Loki"
+url = "https://github.com/grafana/loki"
+category = ["Logging & Monitoring", "Database Interaction"]
+
+[[components.testset]]
+name = "ElasticSearch"
+url = "https://github.com/elastic/elasticsearch"
+category = ["Logging & Monitoring", "Database Interaction", "File & Data Handling"]
+
+[[components.testset]]
+name = "htop"
+url = "https://github.com/htop-dev/htop"
+category = ["Operating System Interaction", "Memory Management", "Logging & Monitoring"]
+
+[[components.testset]]
+name = "strace"
+url = "https://github.com/strace/strace"
+category = ["Operating System Interaction", "Logging & Monitoring"]
+
+[[components.testset]]
+name = "dstat"
+url = "https://github.com/dagwieers/dstat"
+category = ["Operating System Interaction", "Logging & Monitoring"]
+
+[[components.testset]]
+name = "glances"
+url = "https://github.com/nicolargo/glances"
+category = ["Operating System Interaction", "Logging & Monitoring"]
+
+[[components.testset]]
+name = "atop"
+url = "https://github.com/Atoptool/atop"
+category = ["Operating System Interaction", "Logging & Monitoring", "Memory Management"]
+
+[[components.testset]]
+name = "sysstat"
+url = "https://github.com/sysstat/sysstat"
+category = ["Operating System Interaction", "Logging & Monitoring"]

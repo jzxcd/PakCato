@@ -1,0 +1,19 @@
+[project]
+name = "pakcato"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dynaconf>=3.2.11",
+    "github>=1.2.7",
+    "ipykernel>=6.29.5",
+    "numpy>=2.2.6",
+    "openai>=1.93.1",
+    "pandas>=2.3.0",
+    "pyarrow>=20.0.0",
+    "pygithub>=2.6.1",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.0",
+    "tiktoken>=0.9.0",
+]
